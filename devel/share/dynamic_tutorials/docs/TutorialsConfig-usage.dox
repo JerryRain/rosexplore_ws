@@ -1,0 +1,11 @@
+\subsubsection usage Usage
+\verbatim
+<node name="dynamic_tutorials" pkg="dynamic_tutorials" type="dynamic_tutorials">
+  <param name="int_param" type="int" value="50" />
+  <param name="double_param" type="double" value="0.5" />
+  <param name="str_param" type="str" value="Hello World" />
+  <param name="bool_param" type="bool" value="True" />
+  <param name="size" type="int" value="1" />
+</node>
+\endverbatim
+

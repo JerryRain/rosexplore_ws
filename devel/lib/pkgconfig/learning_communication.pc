@@ -1,0 +1,8 @@
+prefix=/home/rain/rosexplore_ws/devel
+
+Name: learning_communication
+Description: Description of learning_communication
+Version: 0.0.0
+Cflags: -I/home/rain/rosexplore_ws/devel/include
+Libs: -L/home/rain/rosexplore_ws/devel/lib 
+Requires: geometry_msgs roscpp rospy std_msgs message_runtime

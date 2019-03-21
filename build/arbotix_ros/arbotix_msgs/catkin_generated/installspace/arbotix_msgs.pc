@@ -1,0 +1,8 @@
+prefix=/home/rain/rosexplore_ws/install
+
+Name: arbotix_msgs
+Description: Description of arbotix_msgs
+Version: 0.10.0
+Cflags: -I/home/rain/rosexplore_ws/install/include
+Libs: -L/home/rain/rosexplore_ws/install/lib 
+Requires: message_runtime std_msgs

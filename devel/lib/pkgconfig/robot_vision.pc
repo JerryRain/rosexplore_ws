@@ -1,0 +1,8 @@
+prefix=/home/rain/rosexplore_ws/devel
+
+Name: robot_vision
+Description: Description of robot_vision
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rain/rosexplore_ws/devel/lib 
+Requires: 

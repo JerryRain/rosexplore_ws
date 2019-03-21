@@ -1,0 +1,8 @@
+prefix=/home/rain/rosexplore_ws/devel
+
+Name: pluginlib_tutorials
+Description: Description of pluginlib_tutorials
+Version: 0.1.10
+Cflags: -I/home/rain/rosexplore_ws/src/ros_advanced/pluginlib_tutorials/include -I/usr/include
+Libs: -L/home/rain/rosexplore_ws/devel/lib -lpluginlib_tutorials
+Requires: pluginlib roscpp

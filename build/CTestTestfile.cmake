@@ -1,0 +1,37 @@
+# CMake generated Testfile for 
+# Source directory: /home/rain/rosexplore_ws/src
+# Build directory: /home/rain/rosexplore_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs(gtest)
+subdirs(arbotix_ros/arbotix)
+subdirs(arbotix_ros/arbotix_controllers)
+subdirs(arbotix_ros/arbotix_firmware)
+subdirs(arbotix_ros/arbotix_python)
+subdirs(arbotix_ros/arbotix_sensors)
+subdirs(robot_perception/ork_tutorials)
+subdirs(robot_perception/pocketsphinx)
+subdirs(arbotix_ros/arbotix_msgs)
+subdirs(ros_primary/learning_communication)
+subdirs(robot_mrobot/mrobot_teleop)
+subdirs(ros_advanced/pilotless_automobile)
+subdirs(ros_advanced/pluginlib_tutorials)
+subdirs(robot_perception/robot_voice)
+subdirs(ros_advanced/action_tutorials)
+subdirs(ros_advanced/dynamic_tutorials)
+subdirs(robot_mrobot/mrobot_bringup)
+subdirs(robot_perception/robot_vision)
+subdirs(ros_advanced/smach_tutorials)
+subdirs(robot_learning/tensorflow_mnist)
+subdirs(robot_learning/tensorflow_object_detection)
+subdirs(robot_marm/marm_planning)
+subdirs(robot_mrobot/mrobot_navigation)
+subdirs(ros_primary/learning_tf)
+subdirs(robot_marm/marm_gazebo)
+subdirs(robot_mrobot/mrobot_gazebo)
+subdirs(ros_advanced/rviz_teleop_commander)
+subdirs(usb_cam)
+subdirs(robot_marm/marm_description)
+subdirs(robot_marm/marm_moveit_config)
+subdirs(robot_mrobot/mrobot_description)

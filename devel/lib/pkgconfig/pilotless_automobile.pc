@@ -1,0 +1,8 @@
+prefix=/home/rain/rosexplore_ws/devel
+
+Name: pilotless_automobile
+Description: Description of pilotless_automobile
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rain/rosexplore_ws/devel/lib 
+Requires: 

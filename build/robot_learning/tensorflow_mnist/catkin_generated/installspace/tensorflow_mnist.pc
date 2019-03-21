@@ -1,0 +1,8 @@
+prefix=/home/rain/rosexplore_ws/install
+
+Name: tensorflow_mnist
+Description: Description of tensorflow_mnist
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rain/rosexplore_ws/install/lib 
+Requires: 

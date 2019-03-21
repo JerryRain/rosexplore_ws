@@ -1,0 +1,8 @@
+prefix=/home/rain/rosexplore_ws/install
+
+Name: arbotix_firmware
+Description: Description of arbotix_firmware
+Version: 0.10.0
+Cflags: 
+Libs: -L/home/rain/rosexplore_ws/install/lib 
+Requires: 

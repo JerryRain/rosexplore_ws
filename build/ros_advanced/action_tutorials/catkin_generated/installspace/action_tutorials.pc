@@ -1,0 +1,8 @@
+prefix=/home/rain/rosexplore_ws/install
+
+Name: action_tutorials
+Description: Description of action_tutorials
+Version: 0.0.0
+Cflags: -I/home/rain/rosexplore_ws/install/include
+Libs: -L/home/rain/rosexplore_ws/install/lib 
+Requires: 
